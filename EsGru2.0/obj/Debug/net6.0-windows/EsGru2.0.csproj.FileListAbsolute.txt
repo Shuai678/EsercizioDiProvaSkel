@@ -1,0 +1,17 @@
+C:\Users\ziyis\OneDrive\Desktop\EsercizioDiProvaSkel\EsGru2.0\bin\Debug\net6.0-windows\EsGru2.0.exe
+C:\Users\ziyis\OneDrive\Desktop\EsercizioDiProvaSkel\EsGru2.0\bin\Debug\net6.0-windows\EsGru2.0.deps.json
+C:\Users\ziyis\OneDrive\Desktop\EsercizioDiProvaSkel\EsGru2.0\bin\Debug\net6.0-windows\EsGru2.0.runtimeconfig.json
+C:\Users\ziyis\OneDrive\Desktop\EsercizioDiProvaSkel\EsGru2.0\bin\Debug\net6.0-windows\EsGru2.0.dll
+C:\Users\ziyis\OneDrive\Desktop\EsercizioDiProvaSkel\EsGru2.0\bin\Debug\net6.0-windows\EsGru2.0.pdb
+C:\Users\ziyis\OneDrive\Desktop\EsercizioDiProvaSkel\EsGru2.0\obj\Debug\net6.0-windows\EsGru2._0.Form1.resources
+C:\Users\ziyis\OneDrive\Desktop\EsercizioDiProvaSkel\EsGru2.0\obj\Debug\net6.0-windows\EsGru2.0.csproj.GenerateResource.cache
+C:\Users\ziyis\OneDrive\Desktop\EsercizioDiProvaSkel\EsGru2.0\obj\Debug\net6.0-windows\EsGru2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ziyis\OneDrive\Desktop\EsercizioDiProvaSkel\EsGru2.0\obj\Debug\net6.0-windows\EsGru2.0.AssemblyInfoInputs.cache
+C:\Users\ziyis\OneDrive\Desktop\EsercizioDiProvaSkel\EsGru2.0\obj\Debug\net6.0-windows\EsGru2.0.AssemblyInfo.cs
+C:\Users\ziyis\OneDrive\Desktop\EsercizioDiProvaSkel\EsGru2.0\obj\Debug\net6.0-windows\EsGru2.0.csproj.CoreCompileInputs.cache
+C:\Users\ziyis\OneDrive\Desktop\EsercizioDiProvaSkel\EsGru2.0\obj\Debug\net6.0-windows\EsGru2.0.sourcelink.json
+C:\Users\ziyis\OneDrive\Desktop\EsercizioDiProvaSkel\EsGru2.0\obj\Debug\net6.0-windows\EsGru2.0.dll
+C:\Users\ziyis\OneDrive\Desktop\EsercizioDiProvaSkel\EsGru2.0\obj\Debug\net6.0-windows\refint\EsGru2.0.dll
+C:\Users\ziyis\OneDrive\Desktop\EsercizioDiProvaSkel\EsGru2.0\obj\Debug\net6.0-windows\EsGru2.0.pdb
+C:\Users\ziyis\OneDrive\Desktop\EsercizioDiProvaSkel\EsGru2.0\obj\Debug\net6.0-windows\EsGru2.0.genruntimeconfig.cache
+C:\Users\ziyis\OneDrive\Desktop\EsercizioDiProvaSkel\EsGru2.0\obj\Debug\net6.0-windows\ref\EsGru2.0.dll
